@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @inqsyirazamri
-- 👀 I’m interested in digital forensics
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning python 
 - 💞 Kind of below beginner's level 
 - 📫 hm bye
